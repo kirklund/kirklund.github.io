@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+[Apache Geode](http://geode.apache.org) committer and VMware GemFire developer in PDX. I started working as a developer on GemStone GemFire in early 2004.
 
-### More Information
+## About this site
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Powered by [Jekyll](https://jekyllrb.com/) using the theme [Jekyll Now](https://github.com/barryclark/jekyll-now).
